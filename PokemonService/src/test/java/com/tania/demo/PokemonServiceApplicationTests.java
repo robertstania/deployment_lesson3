@@ -1,4 +1,4 @@
-package com.ammon.demo;
+package com.tania.demo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class DiscoveryServerApplicationTests {
+public class PokemonServiceApplicationTests {
 
 	@Test
 	public void contextLoads() {
