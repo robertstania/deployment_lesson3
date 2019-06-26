@@ -1,4 +1,4 @@
-package com.tania.demo;
+package com.tania;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class PokemonServiceApplicationTests {
+public class AdminServerApplicationTests {
 
 	@Test
 	public void contextLoads() {

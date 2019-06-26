@@ -1,4 +1,4 @@
-package com.tania.demo;
+package com.tania;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

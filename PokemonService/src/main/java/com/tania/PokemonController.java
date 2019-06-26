@@ -1,4 +1,4 @@
-package com.tania.demo;
+package com.tania;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
